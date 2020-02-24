@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/PED.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/adMux.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/aiso.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/counter.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/debounce.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/displayController.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/hex7seg.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/ledClk.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/ledController.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/pulseIt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Alina/Desktop/CSULB/CECS361_F18/Project1/Project1-Cecs361_F18/topLevel.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

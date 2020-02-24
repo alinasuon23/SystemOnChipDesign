@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Alina\Desktop\Change\Project1-Cecs361_F18\topLevel.ncd
+OUTFILE=C:\Users\Alina\Desktop\Change\Project1-Cecs361_F18\topLevel.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Alina\Desktop\Change\Project1-Cecs361_F18
+LICENSE=WebPack
+USER_INFO=211394997_0_0_518

@@ -1,0 +1,124 @@
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+xst -intstyle ise -ifn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+xst -intstyle ise -ifn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/ukhan/Dropbox/Semester 5/CECS360/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 "Top_Level.ngc" Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level_preroute.twx Top_Level_map.ncd -o Top_Level_preroute.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+xst -intstyle ise -ifn "C:/Users/Alina/Desktop/NOCHANGE__CECS361_Proj1/Project1_CECS360/Top_Level.xst" -ofn "C:/Users/Alina/Desktop/NOCHANGE__CECS361_Proj1/Project1_CECS360/Top_Level.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc toplevel_ucf.ucf -p xc7a100t-csg324-3 Top_Level.ngc Top_Level.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_Level_map.ncd Top_Level.ngd Top_Level.pcf 
+par -w -intstyle ise -ol high -mt off Top_Level_map.ncd Top_Level.ncd Top_Level.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Top_Level.twx Top_Level.ncd -o Top_Level.twr Top_Level.pcf -ucf toplevel_ucf.ucf 
+bitgen -intstyle ise -f Top_Level.ut Top_Level.ncd 

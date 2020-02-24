@@ -1,0 +1,39 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/testbench_isim_beh.exe -prj C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/testbench_beh.prj work.testbench work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Pulse_it.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/led_controller.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/led_clk.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/hex_7seg.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/ad_mux.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/PED.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Display_Controller.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Debounce.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Counter.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/AISO.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.v" into library work
+Analyzing Verilog file "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/testbench.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/ukhan/Downloads/Project1_CECS360/Project1_CECS360/Top_Level.v" Line 36: Size mismatch in connection of port <q>. Formal port size is 16-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 159280 KB
+Fuse CPU Usage: 265 ms
+Compiling module pulse_maker
+Compiling module Debounce
+Compiling module AISO
+Compiling module PED
+Compiling module Counter
+Compiling module led_clk
+Compiling module led_controller
+Compiling module ad_mux
+Compiling module hex_to_7seg
+Compiling module Display_Controller
+Compiling module Top_Level
+Compiling module testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+ERROR:Simulator:861 - Failed to link the design
